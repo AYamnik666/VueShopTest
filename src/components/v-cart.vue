@@ -1,6 +1,6 @@
 <template>
   <div class="v-cart">
-    <h3>Cart</h3>
+    <h5>Cart</h5>
     
   </div>
 </template>
